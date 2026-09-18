@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Gopal Muri</h1>
 
 <h3 align="center">A passionate Software Engineer from India</h3>
-<h4 align="center">I am a computer science and engineering student. I am now studying at Vishwanathrao Deshpande Institute of Technology, Haliyal</h4>
+<h4 align="center">I am a Junior Full Stack Developer at ThirdEye Data, passionate about building scalable applications and solving real-world problems through technology.</h4>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gopalmuri) 
